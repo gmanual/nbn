@@ -1,4 +1,4 @@
-# nbn
+# nbn scripts
 
 acma_import.php - Imports ACMA data into a MySQL database.
  - https://www.acma.gov.au/Industry/Spectrum/Radiocomms-licensing/Register-of-radiocommunications-licences/radiocomms-licence-data
