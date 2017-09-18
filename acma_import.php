@@ -1,6 +1,9 @@
 <?php
 	require_once("db.php");
 
+// https://www.acma.gov.au/Industry/Spectrum/Radiocomms-licensing/Register-of-radiocommunications-licences/radiocomms-licence-data
+// spectra_rrl.zip
+
 	$files = array(
 		"client.csv",
 		"licence.csv",
